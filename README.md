@@ -1,4 +1,7 @@
 ### Hola soy Denis Lucas, Desarrollador Web !👋
+### 🏆Basico: Html  - Css - Javascript
+👾framework: React 
+⚙️ PostgreSql - Nodejs - Git&GitHub
 
 <!--
 **LucasDenis0016/LucasDenis0016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
