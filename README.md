@@ -1,21 +1,11 @@
 ### Hola soy Denis Lucas, Desarrollador Web !👋
-### Skill:
+### Skill
 ### 🏆Basico: Html  - Css - Javascript.
 ### 👾Framework: React.
 ### ⚙️ PostgreSql - Nodejs - Git&GitHub.
 
 
-<!--
-**LucasDenis0016/LucasDenis0016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Otras Herramientas 
 
-Sobre Mi:
+✨ Boostrap - Sass - Tailwind
 
-- 🧑‍💻 Desarrollador web:
-- 🏆 Basico: Html - Css - Javascript - Git&Github
-- 👾 Framework: Reactjs 
-- ⚙️ Nodejs - Postgresql - Postman
-- 📧 webcodingw@gmail.com 
-- 📌 Concordia Entre Rios 
-- 
-- 
--->
