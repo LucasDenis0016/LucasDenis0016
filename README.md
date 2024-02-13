@@ -1,13 +1,13 @@
 ### Hola soy Denis Lucas, Desarrollador Web !👋
-### Skill
+### Skills
 ### 🏆Basico: Html  - Css - Javascript.
-### 👾Framework: React.
+### 👾Framework: Reactjs.
 ### ⚙️ PostgreSql - Nodejs - Git&GitHub.
 
 
 ### Otras Herramientas 
 
-✨ Boostrap - Sass - Tailwind
+✨ Boostrap - Sass -  Tailwind
 
 
 
