@@ -11,6 +11,6 @@ Sobre Mi:
 - ⚙️Backend: Nodejs - Postgresql - Postman
 - 📧 webcodingw@gmail.com 
 - 📌 Concordia Entre Rios 
-- 👤 Hola soy Lucas Denis de la pronvincia de Entre Rios, comence en el mundo del desarrollador web a fines del 2021 realizando cursos en la plataforma edteam a lo cual me llevo a estudiar este 2024 la carrera de Licenciatura en Sistemas en la Universidad nacional de Entre Rios
+- 
 - 
 -->
