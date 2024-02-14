@@ -1,4 +1,4 @@
-### Hola soy Denis Lucas, Desarrollador Web !👋
+### Hola soy Denis Lucas, Estudiante de licenciatura en sistemas, Tambien cuento con curso de Desarrollador Web !👋
 ### Skills
 ### 🏆Basico: Html  - Css - Javascript.
 ### 👾Framework: Reactjs.
