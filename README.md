@@ -1,4 +1,4 @@
-### 👋🏻 Hola soy Denis Lucas, Estudiante de licenciatura en sistemas, Tambien realice cursos de Desarrollador Web en la plataforma EDteam !
+### 👋🏻 Hola soy Denis Lucas, Estudiante de licenciatura en sistemas en la Universidad nacional de Entre Rios, Tambien realice cursos de Desarrollador Web en la plataforma EDteam !
 ### Skills
 ### 🏆Basico: Html  - Css - Javascript.
 ### 👾Framework: Reactjs.
