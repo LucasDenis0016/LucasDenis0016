@@ -1,4 +1,4 @@
-### 👋🏻 Hola soy Denis Lucas,  
+### 👋🏻 Hola soy @Denis Lucas Loenel,  
 ### 📚Estudiante de licenciatura en sistemas en la Universidad nacional de Entre Rios.
 ### 🏅Tambien realice cursos de Desarrollador Web en la plataforma EDteam.
 ### Skills
